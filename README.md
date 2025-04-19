@@ -1,1 +1,1 @@
-# CODEMEET-Code-Ediotr
+# CODEMEET-Code-Editor
